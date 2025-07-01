@@ -43,7 +43,7 @@ A visual and interactive tool to demonstrate popular pathfinding algorithms like
    cd pathfinding-visualizer
 
     npm install
-    set NODE_OPTIONS=--openssl-legacy-provider && npm start
+    set NODE_OPTIONS=--openssl-legacy-provider
     npm start
 
 
