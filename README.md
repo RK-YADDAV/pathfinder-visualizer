@@ -39,7 +39,7 @@ A visual and interactive tool to demonstrate popular pathfinding algorithms like
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/pathfinding-visualizer.git
+   git clone https://github.com/RK-YADDAV/pathfinder-visualizer
    cd pathfinding-visualizer
 
     npm install
