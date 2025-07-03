@@ -8,7 +8,6 @@ A visual and interactive tool to demonstrate popular pathfinding algorithms like
 - Interactive grid where users can set start, end, and wall nodes
 - Visual animations for:
   - Dijkstra’s Algorithm
-  - A* Search
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
 - Adjustable grid size and speed controls (if added)
